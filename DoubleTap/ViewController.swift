@@ -33,6 +33,7 @@ class ViewController: UIViewController {
         imageView.addGestureRecognizer(tapGesture)
         
         print("fff")
+        print("this is clone")
         
     }
     @objc private func didDoubleTap( _ gesture: UITapGestureRecognizer) {
